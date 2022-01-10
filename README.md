@@ -1,2 +1,2 @@
-# Projects_on_data
+# Data_Science_Project
 data analysis projects
